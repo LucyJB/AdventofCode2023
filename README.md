@@ -7,8 +7,9 @@
 </div>
 
 My submissions for the Advent of Code 2023.
+This was my first time taking on Advent of Code set by Eric Wastl [(web link)](https://adventofcode.com/2023/about)
 
-+ This was my first time taking on Advent of Code, and I found some tasks a lot harder than others. The first days took me a lot longer, and I used input from the web to help me figure out the ways to address the problem. 🎅🤶
++  Some of the tasks were very tricky, with ways to trip up unsuspecting coders. I managed to evade all the difficulties and emerge successful - with a tip here and there from the web. 🎅🤶
 
 <div align="center">
   🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄
